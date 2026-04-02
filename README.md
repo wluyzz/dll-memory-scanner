@@ -1,5 +1,5 @@
 # DLL & Memory Scanner
-
+fully open source
 A lightweight cross-platform C++ tool designed to analyze running processes and detect potentially suspicious behavior in memory and loaded modules.
 
 ## 🔍 Features
